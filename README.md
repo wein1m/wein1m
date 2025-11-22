@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I specialize in building modern and interactive front-end websites using Next.js React, Node.js, TailwindCSS, and GSAP. I’m currently interested in building projects with C Programming Language, or automating my workflows using Python and PowerShell (PS1).</p>
+> I really love building modern and interactive front-end websites using Next.js React, Node.js, TailwindCSS, and GSAP. I’m currently interested in building projects with C Programming Language, or automating my workflows using Python and PowerShell (PS1).
 
 ###
 
