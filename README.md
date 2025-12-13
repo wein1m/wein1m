@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wein1m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=Most%20Used%20Languages%20%F0%9F%A4%93" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wein1m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&hide=html,css&custom_title=Most%20Used%20Languages%20%F0%9F%A4%93" height="150" alt="languages graph"  />
 </div>
 
 ###
