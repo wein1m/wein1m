@@ -12,21 +12,21 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo" />
 </div>
 
 ###
