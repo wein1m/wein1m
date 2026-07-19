@@ -2,31 +2,41 @@
 
 ###
 
-> I’m currently obsessed with building CLI tools using Rust 🦀, scripting with Fish & Bash, and automating my daily workflows.  
-> I really love doing cool clean terminal UX, and experimenting with random ideas just for fun.
+> I love exploring different areas of software and learning how things work. From web development and automation to Linux, terminals, and lately cybersecurity.
+> I'm always excited to dive into something new and see where it takes me. 
+> 
+> Most of what you'll find here are experiments, tools, and projects I've built while learning along the way. 🐇
 
 ###
 
-<h2 align="left">🐇 Languages and Tools</h2>
+<h2 align="left">🐇 Things I Enjoy Working With</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="Neovim" />
 </div>
 
 ###
